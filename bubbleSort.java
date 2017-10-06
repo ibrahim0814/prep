@@ -18,7 +18,7 @@ public static void main(String[] args) {
             //keep track of local swaps
             int localSwaps = 0;
 
-            // start swapping if adjacent elements
+            // start swapping if adjacent elements if they're not in order 
              for(int i = 0; i< arr.length-1; i++){
 
                 if(arr[i] > arr[i+1]){
