@@ -1,16 +1,14 @@
-bool has_cycle(Node* head) {
-
-
+boolean hasCycle(Node head) {
 
     if(head == null){
 
         return false;
     }
 
-    Node* slow = head;
-    Node* fast = head;
+    Node slow = head;
+    Node fast = head.next;
 
-    while (slow != null && fast !=null){
+    while (slow != null && fast !=null && fast.next !=null){
 
         if(slow==fast){
 
@@ -22,6 +20,5 @@ bool has_cycle(Node* head) {
     }
 
     return false;
-
 
 }
