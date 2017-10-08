@@ -22,7 +22,7 @@ public static void main(String[] args) {
             a[a_i] = in.nextInt();
         }
 
-        HashMap<Integer, Integer> hMap = new HashMap<Integer, Integer>();
+        HashMap<Integer, Integer> hMap = new HashMap<>();
 
         for (int i=0; i<a.length;i++){
 
