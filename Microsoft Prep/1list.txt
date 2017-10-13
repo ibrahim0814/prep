@@ -6,7 +6,7 @@
 13 Roman to Integer 39.2% Easy -- DONE
 15 3Sum 18.8% Medium -- DONE
 20 Valid Parentheses 29.3% Easy -- DONE
-21 Merge Two Sorted Lists 35.4% Easy
+21 Merge Two Sorted Lists 35.4% Easy -- DONE
 23 Merge k Sorted Lists 23.3% Hard
 24 Swap Nodes in Pairs 35.1% Easy
 25 Reverse Nodes in k-Group 27.5% Hard
