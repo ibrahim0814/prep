@@ -4,8 +4,8 @@
 5 Longest Palindromic Substring 23.0% Medium -- DONE
 8 String to Integer (atoi) 13.5% Easy -- DONE
 13 Roman to Integer 39.2% Easy -- DONE
-15 3Sum 18.8% Medium
-20 Valid Parentheses 29.3% Easy
+15 3Sum 18.8% Medium -- DONE
+20 Valid Parentheses 29.3% Easy -- DONE
 21 Merge Two Sorted Lists 35.4% Easy
 23 Merge k Sorted Lists 23.3% Hard
 24 Swap Nodes in Pairs 35.1% Easy
