@@ -3,7 +3,7 @@
 4 Median of Two Sorted Arrays 18.6% Hard
 5 Longest Palindromic Substring 23.0% Medium -- DONE
 8 String to Integer (atoi) 13.5% Easy -- DONE
-13 Roman to Integer 39.2% Easy
+13 Roman to Integer 39.2% Easy -- DONE
 15 3Sum 18.8% Medium
 20 Valid Parentheses 29.3% Easy
 21 Merge Two Sorted Lists 35.4% Easy
