@@ -1,8 +1,8 @@
 1 Two Sum 23.0% Easy -- DONE
 2 Add Two Numbers 23.0% Medium -- DONE
 4 Median of Two Sorted Arrays 18.6% Hard
-5 Longest Palindromic Substring 23.0% Medium
-8 String to Integer (atoi) 13.5% Easy
+5 Longest Palindromic Substring 23.0% Medium -- DONE
+8 String to Integer (atoi) 13.5% Easy -- DONE
 13 Roman to Integer 39.2% Easy
 15 3Sum 18.8% Medium
 20 Valid Parentheses 29.3% Easy
