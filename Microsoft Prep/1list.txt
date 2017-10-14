@@ -11,7 +11,7 @@
 24 Swap Nodes in Pairs 35.1% Easy -- DONE
 25 Reverse Nodes in k-Group 27.5% Hard
 26 Remove Duplicates from Sorted Array 33.4% Easy -- DONE
-28 Implement strStr() 24.8% Easy
+28 Implement strStr() 24.8% Easy -- DONE
 33 Search in Rotated Sorted Array 30.2% Hard
 46 Permutations 35.7% Medium
 47 Permutations II 28.0% Medium
