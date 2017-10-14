@@ -8,7 +8,7 @@
 20 Valid Parentheses 29.3% Easy -- DONE
 21 Merge Two Sorted Lists 35.4% Easy -- DONE
 23 Merge k Sorted Lists 23.3% Hard
-24 Swap Nodes in Pairs 35.1% Easy
+24 Swap Nodes in Pairs 35.1% Easy -- DONE
 25 Reverse Nodes in k-Group 27.5% Hard
 26 Remove Duplicates from Sorted Array 33.4% Easy
 28 Implement strStr() 24.8% Easy
