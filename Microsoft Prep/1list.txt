@@ -14,7 +14,7 @@
 28 Implement strStr() 24.8% Easy -- DONE
 33 Search in Rotated Sorted Array 30.2% Hard
 46 Permutations 35.7% Medium -- DONE
-47 Permutations II 28.0% Medium
+47 Permutations II 28.0% Medium -- DONE
 48 Rotate Image 34.6% Medium
 53 Maximum Subarray 36.6% Medium
 54 Spiral Matrix 22.5% Medium
