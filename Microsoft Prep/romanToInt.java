@@ -7,7 +7,7 @@
 
 //better way to to this would be to use switch cases and an array to store all the individual values
 //then iterate through the array
-//this solution works though 
+//this solution works though
 
 public int romanToInt(String s) {
 
@@ -28,6 +28,8 @@ public int romanToInt(String s) {
 
             if(i>0){
                 if(val > map.get(s.charAt(i-1))){
+
+                  //IV
 
                 sum = sum -map.get(s.charAt(i-1));
                 sum = sum + (val-map.get(s.charAt(i-1)));
