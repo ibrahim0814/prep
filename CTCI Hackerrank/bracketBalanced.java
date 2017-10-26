@@ -21,7 +21,7 @@ public static boolean isBalanced(String expression) {
 
                     return false;
                 }
-
+                
                 if(icons.get(expCharArr[i]) == charStk.peek()){
 
                     charStk.pop();
@@ -43,4 +43,3 @@ public static boolean isBalanced(String expression) {
 
 
     }
-  
