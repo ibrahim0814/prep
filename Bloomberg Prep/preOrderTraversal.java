@@ -1,5 +1,5 @@
 
-//Parents-->Left--->Right 
+//Node --> Left ---> Right
 
 
 void preOrder(Node root) {
