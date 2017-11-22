@@ -21,7 +21,7 @@ Example 2:
 Answer: 3
 */
 
-//Basically what we have to do is loop through each element of the array and figure out whether its a 1 or a 0. If its a 1, then we do a depth first search to figure out how many other 1's are connected to it forming an island. We can only go top, bottom, right, and left NOT horizontally. As soon as we encounter more 1's, we set them to 0 to indidicate that we've already check them.
+//Basically what we have to do is loop through each element of the array and figure out whether its a 1 or a 0. If its a 1, then we do a depth first search to figure out how many other 1's are connected to it forming an island. We can only go top, bottom, right, and left- NOT horizontally. As soon as we encounter more 1's, we set them to 0 to indidicate that we've already check them.
 //Keep in mind that the grid is of type char! This means we check equality via the quotation marks (ie. grid[row][column] == '1')
 
 class Solution {
