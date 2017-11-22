@@ -1,5 +1,5 @@
 //Linked list implementation from scratch in Java
-//methods: get(index), add(index), add(), remove(index)
+//methods: get(index), add(index, val), add(val), remove(index)
 //for this particular implementation, we have a dummy node as the head
 //first node is at head.next
 //couple of things to remember:
