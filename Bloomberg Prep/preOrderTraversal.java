@@ -1,6 +1,21 @@
 
 //Node --> Left ---> Right
+/*
+Sample Input
 
+     1
+      \
+       2
+        \
+         5
+        /  \
+       3    6
+        \
+         4
+Sample Output
+
+1 2 5 3 4 6
+*/
 
 void preOrder(Node root) {
 
