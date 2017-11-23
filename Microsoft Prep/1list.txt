@@ -16,8 +16,8 @@
 46 Permutations 35.7% Medium -- DONE
 47 Permutations II 28.0% Medium -- DONE
 48 Rotate Image 34.6% Medium -- NOT DOING
-53 Maximum Subarray 36.6% Medium
-54 Spiral Matrix 22.5% Medium
+53 Maximum Subarray 36.6% Medium -- DONE
+54 Spiral Matrix 22.5% Medium -- DONE
 55 Jump Game 28.2% Medium
 56 Merge Intervals 25.3% Hard
 71 Simplify Path 21.9% Medium
