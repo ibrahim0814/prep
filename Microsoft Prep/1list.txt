@@ -20,56 +20,56 @@
 54 Spiral Matrix 22.5% Medium -- DONE
 55 Jump Game 28.2% Medium -- DONE
 56 Merge Intervals 25.3% Hard
-71 Simplify Path 21.9% Medium
+71 Simplify Path 21.9% Medium -- NOT DOING
 73 Set Matrix Zeroes 33.4% Medium
 75 Sort Colors 34.7% Medium
 79 Word Search 22.9% Medium
-88 Merge Sorted Array 30.0% Easy --->
+88 Merge Sorted Array 30.0% Easy
 91 Decode Ways 17.5% Medium
-94 Binary Tree Inorder Traversal 39.6% Medium
-98 Validate Binary Search Tree 20.9% Medium
-101 Symmetric Tree 33.9% Easy --->
-102 Binary Tree Level Order Traversal 32.7% Easy ---->
-103 Binary Tree Zigzag Level Order Traversal 28.6% Medium
+94 Binary Tree Inorder Traversal 39.6% Medium -- DONE
+98 Validate Binary Search Tree 20.9% Medium -- DONE
+101 Symmetric Tree 33.9% Easy
+102 Binary Tree Level Order Traversal 32.7% Easy -- DONE
+103 Binary Tree Zigzag Level Order Traversal 28.6% Medium -- DONE
 106 Construct Binary Tree from Inorder and Postorder Traversal 29.0% Medium
-112 Path Sum 31.3% Easy ---->
-114 Flatten Binary Tree to Linked List 31.0% Medium
+112 Path Sum 31.3% Easy
+114 Flatten Binary Tree to Linked List 31.0% Medium -- DONE
 116 Populating Next Right Pointers in Each Node 36.5% Medium
 117 Populating Next Right Pointers in Each Node II 32.8% Hard
-121 Best Time to Buy and Sell Stock 36.0% Easy ---->
+121 Best Time to Buy and Sell Stock 36.0% Easy -- DONE
 124 Binary Tree Maximum Path Sum 23.3% Hard
-125 Valid Palindrome 23.8% Easy ---->
+125 Valid Palindrome 23.8% Easy
 138 Copy List with Random Pointer 26.1% Hard
-141 Linked List Cycle 37.0% Medium
+141 Linked List Cycle 37.0% Medium -- DONE
 146 LRU Cache 15.8% Hard
 151 Reverse Words in a String 15.7% Medium
 153 Find Minimum in Rotated Sorted Array 36.1% Medium
-160 Intersection of Two Linked Lists 30.2% Easy ---->
+160 Intersection of Two Linked Lists 30.2% Easy ------ DO THIS ONE
 162 Find Peak Element 33.0% Medium
-165 Compare Version Numbers 17.4% Easy ---->
-168 Excel Sheet Column Title 21.6% Easy ---->
-171 Excel Sheet Column Number 41.5% Easy ---->
+165 Compare Version Numbers 17.4% Easy
+168 Excel Sheet Column Title 21.6% Easy
+171 Excel Sheet Column Number 41.5% Easy
 173 Binary Search Tree Iterator 34.5% Medium
 174 Dungeon Game 20.8% Hard
 186 Reverse Words in a String II 29.1% Medium
-189 Rotate Array 21.1% Easy ----->
-191 Number of 1 Bits 37.5% Easy ----->
-200 Number of Islands 27.6% Medium
+189 Rotate Array 21.1% Easy
+191 Number of 1 Bits 37.5% Easy
+200 Number of Islands 27.6% Medium -- DONE
 204 Count Primes 24.2% Easy
-206 Reverse Linked List 39.4% Easy ----->
+206 Reverse Linked List 39.4% Easy
 208 Implement Trie (Prefix Tree) 25.3% Medium
 212 Word Search II 19.3% Hard
 213 House Robber II 30.5% Medium
 215 Kth Largest Element in an Array 33.1% Medium
 218 The Skyline Problem 22.0% Hard
-232 Implement Queue using Stacks 33.9% Easy ------>
-235 Lowest Common Ancestor of a Binary Search Tree 37.7% Easy ----->
+232 Implement Queue using Stacks 33.9% Easy
+235 Lowest Common Ancestor of a Binary Search Tree 37.7% Easy
 236 Lowest Common Ancestor of a Binary Tree 28.8% Medium
-237 Delete Node in a Linked List 43.7% Easy ----->
+237 Delete Node in a Linked List 43.7% Easy
 238 Product of Array Except Self 42.6% Medium
-258 Add Digits 48.4% Easy ------>
+258 Add Digits 48.4% Easy
 268 Missing Number 40.0% Medium
-270 Closest Binary Search Tree Value 34.3% Easy ------>
+270 Closest Binary Search Tree Value 34.3% Easy
 273 Integer to English Words 18.7% Hard
 285 Inorder Successor in BST 35.6% Medium
 297 Serialize and Deserialize Binary Tree 27.8% Hard
