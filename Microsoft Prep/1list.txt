@@ -44,7 +44,7 @@
 146 LRU Cache 15.8% Hard
 151 Reverse Words in a String 15.7% Medium
 153 Find Minimum in Rotated Sorted Array 36.1% Medium
-160 Intersection of Two Linked Lists 30.2% Easy ------ DO THIS ONE
+160 Intersection of Two Linked Lists 30.2% Easy -- DONE
 162 Find Peak Element 33.0% Medium
 165 Compare Version Numbers 17.4% Easy
 168 Excel Sheet Column Title 21.6% Easy
