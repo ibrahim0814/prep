@@ -45,19 +45,19 @@
 151 Reverse Words in a String 15.7% Medium -- DONE
 153 Find Minimum in Rotated Sorted Array 36.1% Medium -- DONE
 160 Intersection of Two Linked Lists 30.2% Easy -- DONE
-162 Find Peak Element 33.0% Medium
+162 Find Peak Element 33.0% Medium -- DONE
 165 Compare Version Numbers 17.4% Easy
 168 Excel Sheet Column Title 21.6% Easy
 171 Excel Sheet Column Number 41.5% Easy
-173 Binary Search Tree Iterator 34.5% Medium
+173 Binary Search Tree Iterator 34.5% Medium -- DO LATER
 174 Dungeon Game 20.8% Hard
-186 Reverse Words in a String II 29.1% Medium
+186 Reverse Words in a String II 29.1% Medium -- LOCKED
 189 Rotate Array 21.1% Easy
 191 Number of 1 Bits 37.5% Easy
 200 Number of Islands 27.6% Medium -- DONE
 204 Count Primes 24.2% Easy
 206 Reverse Linked List 39.4% Easy
-208 Implement Trie (Prefix Tree) 25.3% Medium
+208 Implement Trie (Prefix Tree) 25.3% Medium -- DONE
 212 Word Search II 19.3% Hard
 213 House Robber II 30.5% Medium
 215 Kth Largest Element in an Array 33.1% Medium
