@@ -10,4 +10,5 @@ A virtual function is a member function that you expect to be redefined in deriv
 
 //
 
-3.
+Tips
+- Basically anything that asks you to "find" something in an array is going to be an implementation of binary search

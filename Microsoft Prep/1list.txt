@@ -43,7 +43,7 @@
 141 Linked List Cycle 37.0% Medium -- DONE
 146 LRU Cache 15.8% Hard
 151 Reverse Words in a String 15.7% Medium -- DONE
-153 Find Minimum in Rotated Sorted Array 36.1% Medium
+153 Find Minimum in Rotated Sorted Array 36.1% Medium -- DONE
 160 Intersection of Two Linked Lists 30.2% Easy -- DONE
 162 Find Peak Element 33.0% Medium
 165 Compare Version Numbers 17.4% Easy
