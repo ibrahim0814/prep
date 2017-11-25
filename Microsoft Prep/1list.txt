@@ -59,8 +59,8 @@
 206 Reverse Linked List 39.4% Easy
 208 Implement Trie (Prefix Tree) 25.3% Medium -- DONE
 212 Word Search II 19.3% Hard
-213 House Robber II 30.5% Medium
-215 Kth Largest Element in an Array 33.1% Medium
+213 House Robber II 30.5% Medium -- DEPENDENT ON OTHER PROBLEM
+215 Kth Largest Element in an Array 33.1% Medium -- DONE (kind of)
 218 The Skyline Problem 22.0% Hard
 232 Implement Queue using Stacks 33.9% Easy
 235 Lowest Common Ancestor of a Binary Search Tree 37.7% Easy
