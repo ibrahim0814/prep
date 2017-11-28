@@ -24,11 +24,11 @@
 73 Set Matrix Zeroes 33.4% Medium
 75 Sort Colors 34.7% Medium
 79 Word Search 22.9% Medium
-88 Merge Sorted Array 30.0% Easy
+88 Merge Sorted Array 30.0% Easy -- DONE
 91 Decode Ways 17.5% Medium
 94 Binary Tree Inorder Traversal 39.6% Medium -- DONE
 98 Validate Binary Search Tree 20.9% Medium -- DONE
-101 Symmetric Tree 33.9% Easy
+101 Symmetric Tree 33.9% Easy -- DONE
 102 Binary Tree Level Order Traversal 32.7% Easy -- DONE
 103 Binary Tree Zigzag Level Order Traversal 28.6% Medium -- DONE
 106 Construct Binary Tree from Inorder and Postorder Traversal 29.0% Medium
