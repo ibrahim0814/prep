@@ -26,7 +26,6 @@ public static String compress(String str){
             for(int i = 1; i< charArr.length; i++){
                 if(charArr[i] == curr){
                     len++;
-
                     //This is the only tricky part. When we reach the end, it won't concatenate if we don't set up a condition where we check to see if this is the end
                     //Otherwise, pretty straightforward
                     if(i+1 == charArr.length){
@@ -70,6 +69,8 @@ public static String compress(String str){
                     //single letters don't have any numbers attached, so you need to check for if you have 2 consecutive letters
                     //if you do, then you need to concatenate the current char
                     //we have 2 if statements: first checks to see if we're in range, second checks to if its a letter or not
+
+                    //edit: this DOES work for n single letters in a row, think about it
                     if(i+1 < charArr.length){
                         if(Character.isLetter(charArr[i+1])){ret+=curr;}
                     }
