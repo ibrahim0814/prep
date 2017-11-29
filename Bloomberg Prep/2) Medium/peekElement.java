@@ -23,9 +23,7 @@ public int findPeakElement(int[] nums) {
 
         //we know we need to search on right side, to start = mid+1
         else {start = mid+1;}
-
     }
-
     //peak element index
     return start;
 }
