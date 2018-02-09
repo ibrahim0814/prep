@@ -18,11 +18,11 @@ Node Reverse(Node head) {
     while(curr != null){
 
         next = curr.next;
-
         curr.next = prev;
         prev = curr;
-        curr = next;
 
+        //this is the part i made a mistake on
+        curr = next;
     }
 
     return prev;

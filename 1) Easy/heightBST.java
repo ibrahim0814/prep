@@ -7,6 +7,7 @@
 
 static int height(Node root) {
 
+// pretty much have it nailed down
         int maxRight = 0;
         int maxLeft = 0;
 

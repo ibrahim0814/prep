@@ -38,6 +38,7 @@ public ListNode getIntersectionNode(ListNode headA, ListNode headB) {
         //increment the larger list to align with the smaller one
         if(lenA>lenB){
             int diff = lenA-lenB;
+            //i forgot to check the condition where copyA2 != null!
             while(diff > 0 && copyA2 != null){
                 copyA2 = copyA2.next;
                 diff--;

@@ -8,6 +8,7 @@
 
 public int maxSubArray(int[] nums) {
 
+      //this is where I made the error! remember to set max to int
       int max = Integer.MIN_VALUE;
       int localMax = 0;
 

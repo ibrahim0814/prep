@@ -4,7 +4,7 @@
 //Compare the last two valid elements of the two arrays and insert the larger one onto the end of the first array (remember, this has all the extra slots)
 
 /*
-Array 1: [4,5,6,0,0,0]<---important! notice the zeros at the end! enough space 
+Array 1: [4,5,6,0,0,0]<---important! notice the zeros at the end! enough space
 Array 2: [1,2,3]
 Final array: [1,2,3,4,5,6]
 */
@@ -28,6 +28,7 @@ public void merge(int[] numsM, int m, int[] numsN, int n) {
                 //which ever element we insert, make sure to decrement pointer
                 numsM[insertAt] = numsM[mIndex];
                 mIndex--;
+            //i checked the conditions for this, should've just done else
             }else{
                 numsM[insertAt] = numsN[nIndex];
                 nIndex--;
@@ -35,7 +36,7 @@ public void merge(int[] numsM, int m, int[] numsN, int n) {
         }else{
             //at this point, we've run out of numsM elements, so we just have to insert numsN elements
             numsM[insertAt] = numsN[nIndex];
-            nlast--;
+            nIndex--;
         }
 
         //insert pointer always gets decremented

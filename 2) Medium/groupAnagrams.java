@@ -21,7 +21,7 @@ Note: All inputs will be in lower-case.
 //If that string doesn't exist, add the orginal (nonsorted) version of the string into the hashmap with a new List
 public List<List<String>> groupAnagrams(String[] strs) {
     if (strs == null || strs.length == 0) return new ArrayList<List<String>>();
-    Map<String, List<String>> map = new HashMap<String, List<String>>();
+    HashMap<String, List<String>> map = new HashMap<>();
     for (String s : strs) {
         char[] ca = s.toCharArray();
         Arrays.sort(ca);

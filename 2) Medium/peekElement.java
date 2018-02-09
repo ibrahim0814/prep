@@ -19,7 +19,7 @@ public int findPeakElement(int[] nums) {
     while(start<end){
         int mid = (start+end)/2;
         //if number to the right is smaller, then we know we need to search on the left side to set end = mid
-        if (nums[mid]>nums[mid+1]){end = mid;}
+        if (nums[mid+1]<nums[mid]){end = mid;}
 
         //we know we need to search on right side, to start = mid+1
         else {start = mid+1;}
