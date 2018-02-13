@@ -1,3 +1,3 @@
 # Interview Prep
 
-My solutions to questions from Hackerrank and Leetcode
+Solutions to questions from Leetcode and Hackerrank

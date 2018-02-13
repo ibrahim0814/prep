@@ -1,3 +1,6 @@
+//memorize how this works
+//came up in the at&t interview !
+
 public static void main(String[] args) {
         // scan in values, num is length, every int after is an elem of array
         Scanner in = new Scanner(System.in);
