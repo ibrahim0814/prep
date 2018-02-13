@@ -1,3 +1,5 @@
+//This file details all of the syntax in Java for declaring and using certain data structures 
+
 List //List<Integer> list = new ArrayList<>(elem)
   add(E element);
   add(int index, E element);
