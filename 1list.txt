@@ -24,3 +24,4 @@
 274 H-Index 29.3% Medium
 283 Move Zeroes 44.0% Easy
 287 Find the Duplicate Number 38.5% Hard
+288
